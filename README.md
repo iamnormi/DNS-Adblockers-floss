@@ -1,9 +1,9 @@
 # DNS-Adblockers-floss-and-freemium
-Adblocker via Free and Libre Open-source Software
+Adblocker via Free and Libre Open-source Software and Freemium
 
 ## **LIST**:
 
-**1. dnsforge.de** - [**https://dnsforge.de/**](https://dnsforge.de/)
+**1. dnsforge.de** - [**https://dnsforge.de/**](https://dnsforge.de/) | Freemium
 
 ##
 ## Dev = Normi
