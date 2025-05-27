@@ -1,4 +1,4 @@
-# DNS-Adblockers-floss
+# DNS-Adblockers-floss-and-freemium
 Adblocker via Free and Libre Open-source Software
 
 ##
